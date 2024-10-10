@@ -110,7 +110,13 @@ Abstract
    Diagrama de Clases
    ![DiagramaClases](https://github.com/user-attachments/assets/29d06494-6af4-46c8-b929-0876c2463f3b)
 
-   Diagrama de Componentes y Arquitectura.
+   Diagrama de Componentes
+    ![Componentes](https://github.com/user-attachments/assets/3bc9ded1-81b7-43c6-a921-8b93b568f9f7)
+
+   
+   Diagrama de Arquitectura.
+    ![Arquitectura](https://github.com/user-attachments/assets/2bd33a16-b7d2-4b3e-b22e-34e4b7d8a42c)
+
 
 8. Desarrollo de la propuesta (Aqui va el analisis de su aplicación con SonarQube y Snyk, para que les muestre todos los aspectos a mejorar de su aplicación)
 
