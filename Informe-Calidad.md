@@ -104,13 +104,25 @@ Abstract
     5.8. Especifico
 
 6. <span id="_Toc52661357" class="anchor"></span>**Referentes teóricos**
-    Diagramas de Casos de Uso, Diagrama de Clases, Diagrama de Componentes y Arquitectura.
+    Diagrama de Casos de Uso
+    ![casosUso](https://github.com/user-attachments/assets/56f8820c-9096-4df7-abb6-aadb67d96a37)
 
-7. Desarrollo de la propuesta (Aqui va el analisis de su aplicación con SonarQube y Snyk, para que les muestre todos los aspectos a mejorar de su aplicación)
+   Diagrama de Clases
+   ![DiagramaClases](https://github.com/user-attachments/assets/29d06494-6af4-46c8-b929-0876c2463f3b)
+
+   Diagrama de Componentes
+    ![Componentes](https://github.com/user-attachments/assets/3bc9ded1-81b7-43c6-a921-8b93b568f9f7)
+
+   
+   Diagrama de Arquitectura.
+    ![Arquitectura](https://github.com/user-attachments/assets/2bd33a16-b7d2-4b3e-b22e-34e4b7d8a42c)
+
+
+8. Desarrollo de la propuesta (Aqui va el analisis de su aplicación con SonarQube y Snyk, para que les muestre todos los aspectos a mejorar de su aplicación)
 
     7.1.   Tecnología de información 
 
     7.2.   Metodología, técnicas usadas
 
-8. Cronograma
+9. Cronograma
    (personas, tiempo, otros recursos) Basado en las observaciones que la herramienta SonarQube les informara         sobre la aplicación, a fin de reducir la deuda tecnica, vulnerabilidades, fallas, etc. a 0.
